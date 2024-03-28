@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: orange;
+}
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: orangered;
+}
+img{
+    width: 500px;
+    height: 500px;
+      border: 5px dashed black;
+}
+.qwe{
+     display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  
+ 
+
+
+}
+.qwe img{
+       padding: 5px;
+    margin: 10px;
+}
